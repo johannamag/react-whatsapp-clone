@@ -1,5 +1,5 @@
 .app {
-  background-color: #dadbd3;
+  background: linear-gradient(rgb(52, 134, 118) 20%, rgb(209, 211, 204) 20%);
   height: 100vh;
   display: grid;
   place-items: center;
